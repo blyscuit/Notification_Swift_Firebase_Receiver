@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>412166615031-br5un5228369udd67ipetg1rl94qhsvb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.412166615031-br5un5228369udd67ipetg1rl94qhsvb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBm1yp23eAcdf8P8OOigS2da2FoK0jv4to</string>
+	<key>GCM_SENDER_ID</key>
+	<string>412166615031</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.confusians.NotificationManager</string>
+	<key>PROJECT_ID</key>
+	<string>fir-d5728</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-d5728.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:412166615031:ios:77e2c367f08c7d6fa648f2</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-d5728.firebaseio.com</string>
+</dict>
+</plist>
