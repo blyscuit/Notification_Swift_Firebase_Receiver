@@ -2,13 +2,9 @@
 
 # ■ Silent Push Noti
 
-# ■ Notification Content
+# ■ Notification Content Extension
 
-# Extension
-
-# ■ Notification Service
-
-# Extension
+# ■ Notification Service Extension
 
 [PDF version](Noti.pdf)
 
@@ -27,15 +23,6 @@
 # Silent Push Noti
 
 Run other code
-
-
-# Notification Content Extension
-
-
-# Notification Content Extension
-
-
-# Notification Service Extension
 
 
 # Notification Service Extension
